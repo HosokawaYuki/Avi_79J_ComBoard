@@ -1,0 +1,6 @@
+[submodule "Avi_ESP_Libs"]
+	path = Avi_ESP_Libs
+	url = https://github.com/CREATE-ROCKET/Avi_ESP_Libs
+[submodule "lib"]
+	path = lib
+	url = https://github.com/CREATE-ROCKET/Avi_ESP_Libs
